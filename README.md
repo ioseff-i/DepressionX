@@ -66,3 +66,22 @@ Performance metrics on benchmark datasets:
 ## Citation
 
 If you use this work, please cite our paper:
+
+
+
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## Contact
+
+For questions or collaborations, please contact:
+- Yusif Ibrahimov (yusif.ibrahimov@york.ac.uk)
+- Tarique Anwar (tarique.anwar@york.ac.uk)
+- Tommy Yuan (tommy.yuan@york.ac.uk)
+
