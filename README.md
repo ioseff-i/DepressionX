@@ -48,7 +48,7 @@ Both datasets are categorized into four depression severity levels:
    - Generates attention-based explanations for textual inputs.
    - Extracts a subgraph highlighting influential knowledge graph relations.
 
-![Model Diagram](docs/model_diagram.png)
+![Model Diagram](DepressionX.pdf)
 
 ---
 
