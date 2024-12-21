@@ -65,34 +65,15 @@ Performance metrics on benchmark datasets:
 
 ## Citation
 
-If you use this work, please cite our paper:
+If you use this work, please cite our paper (Just draft, not yet ready!):
 
 ```
-@inproceedings{sawhney2021ordinal,
-    author={Sawhney, Ramit  and
-            Joshi, Harshit  and
-            Gandhi, Saumya  and
-            Shah, Rajiv Ratn},
-    title = {Towards Ordinal Suicide Ideation Detectionon Social Media},
-    year = {2021},
-    month=mar,
-    booktitle = {Proceedings of 14th ACM International Conference On Web Search And Data Mining},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    keywords = {social media, suicide ideation, ordinal regression, reddit},
-    location = {Virtual Event, Israel},
-    series = {WSDM '21}
+@inproceedings{ibrahimov2025depressionx,
+               title={DEPRESSIONX: Knowledge Infused Residual Attention for Explainable Depression Severity Assessment},
+               author={Ibrahimov, Yusif and Anwar, Tarique and Yuan, Tommy},
+               booktitle={Proceedings of W3PHIAI-25}, year={2025}
 }
 ```
-
-
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 ## Contact
