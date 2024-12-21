@@ -67,6 +67,23 @@ Performance metrics on benchmark datasets:
 
 If you use this work, please cite our paper:
 
+```
+@inproceedings{sawhney2021ordinal,
+    author={Sawhney, Ramit  and
+            Joshi, Harshit  and
+            Gandhi, Saumya  and
+            Shah, Rajiv Ratn},
+    title = {Towards Ordinal Suicide Ideation Detectionon Social Media},
+    year = {2021},
+    month=mar,
+    booktitle = {Proceedings of 14th ACM International Conference On Web Search And Data Mining},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    keywords = {social media, suicide ideation, ordinal regression, reddit},
+    location = {Virtual Event, Israel},
+    series = {WSDM '21}
+}
+```
 
 
 
