@@ -56,10 +56,10 @@ Both datasets are categorized into four depression severity levels:
 
 Performance metrics on benchmark datasets:
 
-| Dataset | Precision | Recall | F1 Score | Accuracy | Graded F1 Score |
-|---------|-----------|--------|----------|----------|-----------------|
-| **D1**  | 97.4%    | 71.8%  | 82.5%    | 83.4%    | 83.4%          |
-| **D2**  | 91.1%    | 90.9%  | 90.9%    | 95.1%    | 95.1%          |
+| Dataset | Precision | Recall | F1 Score | 
+|---------|-----------|--------|----------|
+| **D1**  | 97.4%    | 71.8%  | 82.5%    | 
+| **D2**  | 91.1%    | 90.9%  | 90.9%    |
 
 ---
 
